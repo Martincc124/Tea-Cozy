@@ -82,7 +82,7 @@ header {
 }
 /* Bottom section */
 .bottom {
-  background-image: url(file:///C:/Users/marto/Projects/TeaCozy/Resources/images/img-locations-background.jpg);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
   height: 550px;
   width: 1200px;
   background-size: cover;
